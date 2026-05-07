@@ -4,4 +4,15 @@ body{
 
 header{
     background-color: rgb(92, 119, 88);
+    text-align: center;
+}
+
+#img-cachorro{
+    width: 300px;
+}
+
+.paragrafo{
+    text-align: center;
+    padding 30px;
+    font-size: 20px;
 }
